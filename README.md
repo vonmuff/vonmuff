@@ -5,7 +5,7 @@ My name is Maxim, I am 18 years old, a university student, and have been studyin
 ## My Tech Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,git,qt,cmake,clion, postgres" />
+    <img src="https://skillicons.dev/icons?i=cpp,git,qt,cmake,clion,postgres" />
   </a>
 </p>
 
