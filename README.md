@@ -17,6 +17,20 @@ My name is Maxim, I am 18 years old, a university student, and have been studyin
 * Write the first project for my portfolio
 * Learn English to level B2
 
+<h3 align="center">📚 My Library</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://m.media-amazon.com/images/I/71qqdgkTxRL._UF1000,1000_QL80_.jpg" width="150" alt="Atomic Habits">
+      <br>
+      <b>Wladston Ferreira Filho</b><br>
+      <sub>Computer science distilled pdf</sub><br>
+      <span>⭐⭐⭐☆☆</span>
+    </td>
+  </tr>
+</table>
+
 ## LeetCode Activity
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vonmuff?theme=dark&font=Inter)
